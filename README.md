@@ -11,7 +11,7 @@ A robust and scalable Django-based backend application for managing supermarket-
 3. [Installation](#installation)  
 4. [Setting Up the Django Backend](#setting-up-the-django-backend)
 5. [Testing](#testing)
-6. [Running the Project Locally & Verifying API Endpoints](#running-the-project-locally-&-verifying-api-endpoints)  
+6. [Running the Project Locally & Verifying API Endpoints](#running-the-project-locally--verifying-api-endpoints)  
 7. [Using Docker for Deployment](#using-docker-for-deployment)  
 8. [Troubleshooting](#troubleshooting)  
 9. [Future Enhancements](#future-enhancements)
@@ -21,7 +21,6 @@ A robust and scalable Django-based backend application for managing supermarket-
 ## Features
 
 - Centralized backend for supermarket management.
-- CRUD operations for inventory, staff, and customers.
 - REST API endpoints for data integration with frontend or other applications.
 - Easily deployable using Docker.
 
