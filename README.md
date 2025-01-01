@@ -62,9 +62,6 @@ venv\Scripts\activate
 ```bash
 pip install -r requirements.txt
 ```
-```bash
-pip install -r requirements.txt
-```
 #### 3. Start the Development Server
 ```bash
 python manage.py runserver
